@@ -1,3 +1,4 @@
 #encoding=utf8
-
-print 'this is for gongbing!'
+from numpy import mat
+a=[1,3,5]
+print mat(a)
