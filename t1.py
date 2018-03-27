@@ -1,3 +1,3 @@
 #encoding=utf8
 
-print 'hello'
+print 'hello','how are you'
